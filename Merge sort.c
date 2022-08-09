@@ -51,5 +51,5 @@ int main() {
 
    printf("\nList after sorting\n");
    
-   for(i = 0; i <put= max; i++)
+   for(i = 0; i < max; i++)
       printf("%d ", a[i]);
